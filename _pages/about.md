@@ -9,7 +9,9 @@ redirect_from:
 
 
 # <big>👨‍🎓 教育经历</big>
+
 ======
+
 **2020.9 - 2021.6**  
 中国石油大学（华东） 机电工程学院 机械类学士  
 
@@ -27,8 +29,12 @@ redirect_from:
 
 
 # <big>📜 学术成果</big>
+
 ======
+
 1. Y. Kuang, B. Jiang, X. Cui, S. Li, Y. Liu and H. Song, "Flexible Differential Privacy for Internet of Medical Things Based on Evolutionary Learning," in **IEEE Internet of Things Journal**, vol. 11, no. 9, pp. 16954-16968, 1 May1, 2024, doi: 10.1109/JIOT.2024.3366889. [链接](https://ieeexplore.ieee.org/document/10438726)
+
+  
 2. Yongxiang Kuang, Bin Jiang, Xuerong Cui, Shibao Li, Jian Wang, Houbing Song, Adaptive double-loop coverage optimization of underwater wireless directional restricted sensor networks, **Ad Hoc Networks**, Volume 156, 2024, 103409, ISSN 1570-8705, https://doi.org/10.1016/j.adhoc.2024.103409. [链接](https://www.sciencedirect.com/science/article/pii/S1570870524000209)
 
 

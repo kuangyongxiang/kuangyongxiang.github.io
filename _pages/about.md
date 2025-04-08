@@ -7,21 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-我目前是中国石油大学（华东）的大四学生，同时是香港中文大学（深圳）的访问学生，已保研至中国科学院大学人工智能学院，预计于2025年9月入学。
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+我目前是中国石油大学（华东）的大四学生，正坚定地走在学术成长道路上，希望你我顺利~
 
-A data-driven personal website
+教育经历
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+2020.9-2021.6 中国石油大学（华东） 机电工程学院 机械类学士
+2021.6-至今 中国石油大学（华东） 海洋与空间信息学院 通信工程学士 导师：[姜斌](https://ocean.upc.edu.cn/2022/0922/c15436a384822/page.htm)
+2025.3-至今 香港中文大学（深圳） 访问学生 导师：[朱光旭](https://www.sribd.cn/teacher/39)
+（预计）2025.9-future 中国科学院大学 人工智能学院 计算机应用技术硕士 导师：[张宝贤](https://people.ucas.ac.cn/~bxzhang)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+学术成果
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Y. Kuang, B. Jiang, X. Cui, S. Li, Y. Liu and H. Song, "Flexible Differential Privacy for Internet of Medical Things Based on Evolutionary Learning," in IEEE Internet of Things Journal, vol. 11, no. 9, pp. 16954-16968, 1 May1, 2024, doi: 10.1109/JIOT.2024.3366889. [链接](https://ieeexplore.ieee.org/document/10438726)
+2. Yongxiang Kuang, Bin Jiang, Xuerong Cui, Shibao Li, Jian Wang, Houbing Song, Adaptive double-loop coverage optimization of underwater wireless directional restricted sensor networks, Ad Hoc Networks, Volume 156, 2024, 103409, ISSN 1570-8705, https://doi.org/10.1016/j.adhoc.2024.103409. [链接](https://www.sciencedirect.com/science/article/pii/S1570870524000209)
 

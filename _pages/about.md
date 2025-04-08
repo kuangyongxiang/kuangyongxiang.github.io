@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<div class="profile-container">
 
 ## 👨‍🎓 教育经历
-<div class="timeline">
+
 
 **2020.9 - 2021.6**  
 中国石油大学（华东） 机电工程学院  
@@ -29,10 +28,10 @@ redirect_from:
 中国科学院大学 人工智能学院  
 计算机应用技术硕士  
 导师：[张宝贤教授](https://people.ucas.ac.cn/~bxzhang)  
-</div>
+
 
 ## 📜 学术成果
-<div class="publications">
+
 
 1. ​**Flexible Differential Privacy for IoMT**  
    Kuang Y., Jiang B. et al.  
@@ -43,5 +42,4 @@ redirect_from:
    Kuang Y., Jiang B. et al.  
    *Ad Hoc Networks*, 2024  
    [DOI:10.1016/j.adhoc.2024.103409](https://www.sciencedirect.com/science/article/pii/S1570870524000209)  
-</div>
-</div>
+

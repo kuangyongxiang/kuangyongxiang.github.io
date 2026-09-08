@@ -1,21 +1,21 @@
 title: "Yongxiang Kuang (匡永祥)"
-description: ""
 url: "https://kuangyongxiang.github.io"
 baseurl: "/yongxiang-kuang-homepage"
 repository: "kuangyongxiang/yongxiang-kuang-homepage"
 google_scholar_stats_use_cdn: false
+
 
 google_analytics_id:
 google_site_verification:
 bing_site_verification:
 baidu_site_verification:
 
+
 author:
   name: "Yongxiang Kuang (匡永祥)"
   avatar: "images/codex-clipboard-a404c3b5-cc71-4589-9f90-da6b3f433456.jpg"
   bio: ""
   location: "Beijing, China"
-  employer: ""
   pubmed:
   googlescholar:
   email: "kuangyongxiang25@mails.ucas.ac.cn"
@@ -34,50 +34,3 @@ author:
   impactstory:
   lastfm:
   linkedin:
-  dblp:
-  orcid: "https://orcid.org/0009-0008-1759-1747"
-  pinterest:
-  soundcloud:
-  stackoverflow:
-  steam:
-  tumblr:
-  twitter:
-  vine:
-  weibo:
-  xing:
-  youtube:
-  wikipedia:
-
-include:
-  - .htaccess
-  - _pages
-  - files
-exclude:
-  - docs
-  - google_scholar_crawler
-  - .github
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - vendor
-
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkd,md"
-markdown: kramdown
-highlighter: rouge
-permalink: /:categories/:title/
-timezone: Asia/Shanghai
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-redirect-from
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: default
-      author_profile: true

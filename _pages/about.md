@@ -32,7 +32,7 @@ My research focuses on edge intelligence and wireless edge computing. I am curre
 
 **Yongxiang Kuang**, Bin Jiang, Yongxin Liu, and Houbing Herbert Song
 
-**IEEE Transactions on Services Computing (CCF-A; SCI, CAS Q1)** 2026 &nbsp; <a href="https://doi.org/10.1109/TSC.2026.3729801">[Paper]</a>
+**IEEE Transactions on Services Computing (CCF-A)** 2026 &nbsp; <a href="https://doi.org/10.1109/TSC.2026.3729801">[Paper]</a>
 
 <hr>
 
@@ -40,7 +40,7 @@ My research focuses on edge intelligence and wireless edge computing. I am curre
 
 Bin Jiang, **Yongxiang Kuang**<sup>*</sup>, and Houbing Herbert Song
 
-**IEEE Transactions on Services Computing (CCF-A; SCI, CAS Q1)** 2026 &nbsp; <a href="https://doi.org/10.1109/TSC.2026.3653815">[Paper]</a>
+**IEEE Transactions on Services Computing (CCF-A)** 2026 &nbsp; <a href="https://doi.org/10.1109/TSC.2026.3653815">[Paper]</a>
 
 <hr>
 
@@ -60,7 +60,7 @@ Bin Jiang, **Yongxiang Kuang**<sup>*</sup>, and Houbing Herbert Song
 
 # Honors and Awards
 
-- *2024*: Top Ten Student of China University of Petroleum (East China).
-- *2024*: Xiaomi Special Scholarship (awarded to only 4 undergraduate students).
-- *2023*: National Scholarship.
-- *2022*: National Scholarship.
+- *2024*: **Top Ten Student** of China University of Petroleum (East China).
+- *2024*: **Xiaomi Special Scholarship** (awarded to only 4 undergraduate students).
+- *2023*: **National Scholarship**.
+- *2022*: **National Scholarship**.

@@ -1,52 +1,52 @@
-title                    : "Yongxiang Kuang (匡永祥)"
-description              : "Personal homepage of Yongxiang Kuang, a master's student researching edge intelligence and edge computing."
-url                      : "https://kuangyongxiang.github.io"
-baseurl                  : "/yongxiang-kuang-homepage"
-repository               : "kuangyongxiang/yongxiang-kuang-homepage"
-google_scholar_stats_use_cdn : false
+title: "Yongxiang Kuang (匡永祥)"
+description: ""
+url: "https://kuangyongxiang.github.io"
+baseurl: "/yongxiang-kuang-homepage"
+repository: "kuangyongxiang/yongxiang-kuang-homepage"
+google_scholar_stats_use_cdn: false
 
-google_analytics_id      :
-google_site_verification :
-bing_site_verification   :
-baidu_site_verification  :
+google_analytics_id:
+google_site_verification:
+bing_site_verification:
+baidu_site_verification:
 
 author:
-  name             : "Yongxiang Kuang"
-  avatar           : "images/avatar.jpg"
-  bio              : "M.Sc. student in Computer Applied Technology at the University of Chinese Academy of Sciences. Researching edge intelligence and edge computing."
-  location         : "Qingdao, China"
-  employer         : "University of Chinese Academy of Sciences"
-  pubmed           :
-  googlescholar    :
-  email            : "kuangyongxiang25@mails.ucas.ac.cn"
-  researchgate     :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "kuangyongxiang"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      :
-  lastfm           :
-  linkedin         :
-  dblp             :
-  orcid            : "https://orcid.org/0009-0008-1759-1747"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    :
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  name: "Yongxiang Kuang (匡永祥)"
+  avatar: "images/codex-clipboard-a404c3b5-cc71-4589-9f90-da6b3f433456.jpg"
+  bio: ""
+  location: "Beijing, China"
+  employer: ""
+  pubmed:
+  googlescholar:
+  email: "kuangyongxiang25@mails.ucas.ac.cn"
+  researchgate:
+  uri:
+  bitbucket:
+  codepen:
+  dribbble:
+  flickr:
+  facebook:
+  foursquare:
+  github: "kuangyongxiang"
+  google_plus:
+  keybase:
+  instagram:
+  impactstory:
+  lastfm:
+  linkedin:
+  dblp:
+  orcid: "https://orcid.org/0009-0008-1759-1747"
+  pinterest:
+  soundcloud:
+  stackoverflow:
+  steam:
+  tumblr:
+  twitter:
+  vine:
+  weibo:
+  xing:
+  youtube:
+  wikipedia:
 
 include:
   - .htaccess

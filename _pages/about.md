@@ -46,7 +46,7 @@ Bin Jiang, **Yongxiang Kuang**<sup>*</sup>, and Houbing Herbert Song
 
 ### Flexible Differential Privacy for Internet of Medical Things Based on Evolutionary Learning
 
-**Yongxiang Kuang**, Bin Jiang, Xuerong Cui, Shibao Li, Yongxin Liu, and Houbing Song
+**Yongxiang Kuang**, Bin Jiang, Xuerong Cui, Shibao Li, Yongxin Liu, and Houbing Herbert Song
 
 *IEEE Internet of Things Journal* 2024 &nbsp; <a href="https://doi.org/10.1109/JIOT.2024.3366889">[Paper]</a>
 
@@ -54,7 +54,7 @@ Bin Jiang, **Yongxiang Kuang**<sup>*</sup>, and Houbing Herbert Song
 
 ### Adaptive Double-Loop Coverage Optimization of Underwater Wireless Directional Restricted Sensor Networks
 
-**Yongxiang Kuang**, Bin Jiang, Xuerong Cui, Shibao Li, Jian Wang, and Houbing Song
+**Yongxiang Kuang**, Bin Jiang, Xuerong Cui, Shibao Li, Jian Wang, and Houbing Herbert Song
 
 *Ad Hoc Networks* 2024 &nbsp; <a href="https://doi.org/10.1016/j.adhoc.2024.103409">[Paper]</a>
 

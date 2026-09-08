@@ -1,13 +1,13 @@
 # main links
-links:
-  main:
-    - title: "About Me"
-      url: "/yongxiang-kuang-homepage/#about-me"
-    - title: "News"
-      url: "/yongxiang-kuang-homepage/#news"
-    - title: "Education"
-      url: "/yongxiang-kuang-homepage/#education"
-    - title: "Publications"
-      url: "/yongxiang-kuang-homepage/#publications"
-    - title: "Honors and Awards"
-      url: "/yongxiang-kuang-homepage/#honors-and-awards"
+main:
+  - title: "About Me"
+    url: "/yongxiang-kuang-homepage/#about-me"
+  - title: "News"
+    url: "/yongxiang-kuang-homepage/#news"
+  - title: "Education"
+    url: "/yongxiang-kuang-homepage/#education"
+  - title: "Publications"
+    url: "/yongxiang-kuang-homepage/#publications"
+  - title: "Honors and Awards"
+    url: "/yongxiang-kuang-homepage/#honors-and-awards"
+。

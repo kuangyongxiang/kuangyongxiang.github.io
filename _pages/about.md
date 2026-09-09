@@ -11,7 +11,7 @@ redirect_from:
 
 Hello! I am **Yongxiang Kuang (匡永祥)**, a **M.Sc. student** in Computer Applied Technology at the **School of Artificial Intelligence**, **University of Chinese Academy of Sciences**. I previously studied Communication Engineering at China University of Petroleum (East China), where I **ranked 1st out of 97 students**.
 
-My research focuses on edge intelligence and wireless edge computing. I am currently learning about **VLMs** and **Efficient AI**.
+My research focuses on **Edge Intelligence** and **Wireless Edge Computing**. I am currently learning about **Efficient AI**, **Agents**, and **VLMs**.
 
 <p><strong style="color:#b54708;">I am always looking for internships or collaborations. Please contact <a href="mailto:kuangyongxiang25@mails.ucas.ac.cn">kuangyongxiang25@mails.ucas.ac.cn</a>.</strong></p>
 

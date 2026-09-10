@@ -1,7 +1,7 @@
 <!-- begin SEO -->
 {% assign canonical_url = page.url | replace: "index.html", "" | absolute_url %}
 
-<title>{{ site.title | escape }} | Homepage</title>
+<title>Yongxiang Kuang (匡永祥) | UCAS | Efficient AI &amp; Edge Intelligence</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
@@ -24,17 +24,17 @@
 
 <meta property="og:locale" content="en">
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ site.title | escape }} | Homepage">
+<meta property="og:title" content="Yongxiang Kuang (匡永祥) | UCAS | Efficient AI &amp; Edge Intelligence">
 
-{% if canonical_url %}
-  <link rel="canonical" href="{{ canonical_url }}">
-  <meta property="og:url" content="{{ canonical_url }}">
-{% endif %}
+<link rel="canonical" href="https://kuangyongxiang.github.io/">
+<meta property="og:url" content="https://kuangyongxiang.github.io/">
 
 {% if seo_description %}
   <meta name="description" content="{{ seo_description }}">
   <meta property="og:description" content="{{ seo_description }}">
 {% endif %}
+
+<meta name="author" content="Yongxiang Kuang">
 
 {% if site.twitter.username %}
   <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">

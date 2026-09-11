@@ -23,7 +23,7 @@ My research focuses on **Edge Intelligence** and **Wireless Edge Computing**. I 
 ## News
 
 
-- *2026.09*: My first-author paper "Same Problem, Different Start: First-Decision Distillation for Cross-Presentation Alignment" has been submitted to **ICLR**.
+- *2026.09*: My first-author paper "Same Problem, Different Start: First-Decision Distillation for Cross-Presentation Alignment" has been submitted to ICLR for possible publication. Fingers crossed!
 - *2026.09*: My first-author paper "Spatio-Temporal Provisioning in Multi-UAV MEC with Pricing Games and Evolutionary Optimization" has been accepted by **IEEE Transactions on Services Computing (CCF-A)**.
 - *2026.07*: My first-author paper "Task-Oriented Offloading with Heterogeneous Encoding for Routed MLLM Services" has been submitted to IEEE for possible publication.
 - *2026.07*: My first-author paper "Scalable Reciprocity-Free Over-the-Air Computation Under Phase Misalignment" has been submitted to IEEE for possible publication.

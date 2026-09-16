@@ -90,3 +90,30 @@
     }
   }
 }
+
+.site-footer {
+  clear: both;
+  margin: 3em 0 0;
+  padding: 1.5em 1em;
+  border-top: 1px solid $light-gray;
+  color: $gray;
+  text-align: center;
+  font-size: $type-size-7;
+}
+
+.site-footer__inner {
+  max-width: $x-large;
+  margin: 0 auto;
+}
+
+.site-footer__separator {
+  margin: 0 .55em;
+  color: $light-gray;
+}
+
+@include breakpoint($small) {
+  .site-footer {
+    padding-right: 2em;
+    padding-left: 2em;
+  }
+}

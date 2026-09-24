@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
+<span class='anchor' id='about-me'></span>
 
 Hello! I am **Yongxiang Kuang (匡永祥)**, a **M.Sc. student** in Computer Applied Technology at the **School of Artificial Intelligence**, **University of Chinese Academy of Sciences**. I previously studied Communication Engineering at China University of Petroleum (East China), where I **ranked 1st out of 97 students**.
 

@@ -49,6 +49,12 @@
 }
 
 .page__content {
+  .anchor#about-me {
+    display: block;
+    height: 0;
+    scroll-margin-top: 5em;
+  }
+
   // Give the main profile sections a quiet visual rhythm while keeping the
   // typography and spacing suitable for a research homepage.
   h2[id] {
@@ -80,17 +86,6 @@
     &:after {
       display: none;
     }
-  }
-
-  h2#about-me {
-    scroll-margin-top: 6em;
-    margin-top: 1em;
-    color: #224b8d;
-    border-left-color: #224b8d;
-    border-bottom-color: rgba(#224b8d, 0.22);
-    background: linear-gradient(90deg, rgba(#224b8d, 0.1), rgba(#224b8d, 0));
-
-    &:before { content: "\f007"; }
   }
 
   h2#news {
